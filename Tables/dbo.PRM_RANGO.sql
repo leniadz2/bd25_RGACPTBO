@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[PRM_RANGO] (
+  [PERIODOINI] [varchar](6) NOT NULL,
+  [PERIODOFIN] [varchar](6) NOT NULL
+)
+ON [PRIMARY]
+GO
